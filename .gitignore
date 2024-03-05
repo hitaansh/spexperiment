@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL file
 __pycache__/
 *.py[cod]
 *$py.class
@@ -161,5 +161,5 @@ cython_debug/
 
 # personal
 notes/
-data/.
+data/
 .DS_Store
